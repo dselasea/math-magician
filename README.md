@@ -112,9 +112,7 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
-👤 **Author**
+👤 **Daniel Selase Anyidoho**
 
 - GitHub: [@githubhandle](https://github.com/dselasea)
 - Twitter: [@twitterhandle](https://twitter.com/dselasea)
