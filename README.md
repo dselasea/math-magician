@@ -104,9 +104,9 @@ To run tests, run the following command:
 
 You can deploy this project using:
 
-**Github Pages**
-**Netlify**
-**Vercel**
+- Github Pages
+- Netlify
+- Vercel
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
