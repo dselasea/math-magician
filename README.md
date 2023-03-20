@@ -56,6 +56,7 @@
 - [Live Demo Link]() - N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -67,10 +68,10 @@ In order to run this project you need:
 ```sh
     npm install
     npm start
-    Runs the app in the development mode.\
+    Runs the app in the development mode.
     Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-    The page will reload when you make changes.\
+    The page will reload when you make changes.
     You may also see any lint errors in the console.
 ```
 
@@ -103,9 +104,9 @@ To run tests, run the following command:
 
 You can deploy this project using:
 
-** Github Pages **
-** Netlify **
-** Vercel **
+**Github Pages**
+**Netlify**
+**Vercel**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
