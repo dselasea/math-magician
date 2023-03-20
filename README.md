@@ -102,8 +102,6 @@ To run tests, run the following command:
 
 ### Deployment
 
-You can deploy this project using:
-
 - Github Pages
 - Netlify
 - Vercel
